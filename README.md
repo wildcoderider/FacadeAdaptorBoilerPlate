@@ -1,2 +1,2 @@
 # FacadeAdaptorBoilerPlate
-This is a repository that implements the facade, adaptor pattern boiler plate.
+This repository hosts a C# .NET REST API that serves as a boilerplate for implementing the facade and adaptor design patterns. It provides a robust foundation for developing applications that aggregate content or data from multiple sources, such as a news aggregator compiling articles from various outlets, a centralized booking system that consolidates information from different providers, or a job aggregator that brings together listings from various platforms. By leveraging this boilerplate, developers can streamline the process of collecting and managing data from disparate sources, facilitating a more efficient and cohesive user experience.
